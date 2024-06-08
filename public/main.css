@@ -7,7 +7,7 @@ body {
     flex-direction: column;
    justify-content: center;
    align-items: center;
-   background: linear-gradient(to right, #4e53c7, #8f94fa); /* degradado de rojo a amarillo */
+   background: linear-gradient(to right, #4e53c7, #8f94fa);
     height: 100vh;
     color: white;
 }
