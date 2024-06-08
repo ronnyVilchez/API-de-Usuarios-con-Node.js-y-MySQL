@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+.div {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background: linear-gradient(to right, #4e53c7, #8f94fa); /* degradado de rojo a amarillo */
+    height: 100vh;
+    color: white;
+}
+
+.btn {
+    width: 8rem;
+    height: 2rem;
+    color: #4e53c7;
+    border-radius: 5px;
+    border: none;
+    margin:.5rem auto;
+}
+
+h1,p {
+    margin:.5rem auto;
+}
